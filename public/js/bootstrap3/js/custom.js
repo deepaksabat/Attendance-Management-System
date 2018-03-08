@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){ var width = $(window).width(); if(width > 767){ $('li.dropdown').on('mouseover',function(){ $(this).addClass('open'); }); $('li.dropdown').on('mouseout',function(){ $(this).removeClass('open'); }); $('li.dropdown').on('click',function(){ return false; }); } });

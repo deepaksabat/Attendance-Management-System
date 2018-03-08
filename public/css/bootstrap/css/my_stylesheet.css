@@ -1,0 +1,119 @@
+.main-menu-div{
+	border-bottom:#333333 thin solid;
+	background-color:#F9FAF7;
+}
+
+<!---------------------------------------------------------------------------------------------------->
+
+
+.block-wrapper-div{
+	
+	background-color:#F6F7F8;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;	
+}
+
+.block-header-div{
+	
+	background-color:#F6F7F8;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	padding:10px 0px 10px 20px;
+	/*border-bottom:#999 thin groove;*/
+        border-bottom:1px solid #E9EAED; 
+}
+
+.block-common-div-heading{
+	
+	background-color:#FFFFFF;
+	padding:5px 0px 5px 20px;
+	/*border-bottom:#999 thin groove;*/ 
+	border-bottom:1px solid #E9EAED; 
+ 
+}
+
+.block-common-div-comment{
+	
+	background-color:#FFFFFF;
+	padding:9px 5px 5px 7px;
+	/*border-bottom:#999 thin groove;*/
+	border-bottom:1px solid #E9EAED; 
+}
+
+
+.block-header-profile-pic{
+	height:50px; 
+	width:45px; 
+	border:thin; 
+	padding:2px; 
+	margin-top:10px; 
+	margin-bottom:10px;
+}
+
+.block-comment-profile-pic{
+	height:45px; 
+	width:41px; 
+	border:thin; 
+	padding:2px; 
+	margin-top:1px;
+}
+
+.block-header-profile-pic-comment{
+	height:38px; 
+	width:35px; 
+	border:thin; 
+	padding:2px; 
+	margin-top:1px;
+
+}
+
+.video-block{
+	background-color: #F6F7F8;
+	border-top: #E6E6E6 1px solid;
+	border-right: #E6E6E6 2px groove;
+	border-bottom: #E6E6E6 2px groove;
+	border-left: #E6E6E6 1px solid;
+}
+
+.round-counter{
+	border-radius: 7px;
+	background-color: #000;
+	padding:1px 4px 1px 4px;
+	color: white;
+}
+
+.video-upload-form{
+	border-top:#CCC 1px solid;
+	border-bottom:#999 4px groove;
+	border-right:#999 4px groove;
+	border-left: #CCC 1px solid;
+}
+
+
+
+.font{
+	font-family:'Akronim-Regular', cursive;
+}
+
+.padding-left-comment{
+	padding-left:40px;
+	
+}
+
+.video-image-size{
+	max-height:200px;
+
+}
+
+.video-block{
+	border-radius:10px;
+}
+.recommended-video-stat{
+	margin-right:2px; 
+	padding-right:5px; 
+	border-right:#E6E6E6 thin solid;
+}
+.block-friend-list-profile-pic{ 
+	border:thin; 
+	margin:5px; 
+}
